@@ -9,7 +9,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>GettingCleaningData/CodeBook.md at master · stenara/GettingCleaningData</title>
+    <title>GettingCleaningData/CodeBook.md at master · danielacargnin/GettingCleaningData</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -18,8 +18,8 @@
     <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
     <meta property="fb:app_id" content="1401488693436528">
 
-      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="stenara/GettingCleaningData" name="twitter:title" /><meta content="GettingCleaningData - Projects, Quiz, All for the Getting and Cleaning Data from the Data Science Specialization from Coursera" name="twitter:description" /><meta content="https://avatars1.githubusercontent.com/u/9557883?v=3&amp;s=400" name="twitter:image:src" />
-      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars1.githubusercontent.com/u/9557883?v=3&amp;s=400" property="og:image" /><meta content="stenara/GettingCleaningData" property="og:title" /><meta content="https://github.com/stenara/GettingCleaningData" property="og:url" /><meta content="GettingCleaningData - Projects, Quiz, All for the Getting and Cleaning Data from the Data Science Specialization from Coursera" property="og:description" />
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="danielacargnin/GettingCleaningData" name="twitter:title" /><meta content="GettingCleaningData - Projects, Quiz, All for the Getting and Cleaning Data from the Data Science Specialization from Coursera" name="twitter:description" /><meta content="https://avatars1.githubusercontent.com/u/9557883?v=3&amp;s=400" name="twitter:image:src" />
+      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars1.githubusercontent.com/u/9557883?v=3&amp;s=400" property="og:image" /><meta content="danielacargnin/GettingCleaningData" property="og:title" /><meta content="https://github.com/danielacargnin/GettingCleaningData" property="og:url" /><meta content="GettingCleaningData - Projects, Quiz, All for the Getting and Cleaning Data from the Data Science Specialization from Coursera" property="og:description" />
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
@@ -59,10 +59,10 @@
 
       
   <meta name="description" content="GettingCleaningData - Projects, Quiz, All for the Getting and Cleaning Data from the Data Science Specialization from Coursera">
-  <meta name="go-import" content="github.com/stenara/GettingCleaningData git https://github.com/stenara/GettingCleaningData.git">
+  <meta name="go-import" content="github.com/danielacargnin/GettingCleaningData git https://github.com/danielacargnin/GettingCleaningData.git">
 
-  <meta content="9557883" name="octolytics-dimension-user_id" /><meta content="stenara" name="octolytics-dimension-user_login" /><meta content="30936785" name="octolytics-dimension-repository_id" /><meta content="stenara/GettingCleaningData" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="30936785" name="octolytics-dimension-repository_network_root_id" /><meta content="stenara/GettingCleaningData" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/stenara/GettingCleaningData/commits/master.atom" rel="alternate" title="Recent Commits to GettingCleaningData:master" type="application/atom+xml">
+  <meta content="9557883" name="octolytics-dimension-user_id" /><meta content="danielacargnin" name="octolytics-dimension-user_login" /><meta content="30936785" name="octolytics-dimension-repository_id" /><meta content="danielacargnin/GettingCleaningData" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="30936785" name="octolytics-dimension-repository_network_root_id" /><meta content="danielacargnin/GettingCleaningData" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/danielacargnin/GettingCleaningData/commits/master.atom" rel="alternate" title="Recent Commits to GettingCleaningData:master" type="application/atom+xml">
 
   </head>
 
@@ -84,7 +84,7 @@
 
 
       <div class="site-search repo-scope js-site-search" role="search">
-          <form accept-charset="UTF-8" action="/stenara/GettingCleaningData/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/stenara/GettingCleaningData/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+          <form accept-charset="UTF-8" action="/danielacargnin/GettingCleaningData/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/danielacargnin/GettingCleaningData/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
   <label class="js-chromeless-input-container form-control">
     <div class="scope-badge">This repository</div>
     <input type="text"
@@ -151,9 +151,9 @@
 
   <div class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="stenara/GettingCleaningData">This repository</span>
+    <span title="danielacargnin/GettingCleaningData">This repository</span>
   </div>
-    <a class="dropdown-item" href="/stenara/GettingCleaningData/issues/new" data-ga-click="Header, create new issue">
+    <a class="dropdown-item" href="/danielacargnin/GettingCleaningData/issues/new" data-ga-click="Header, create new issue">
       New issue
     </a>
 
@@ -229,7 +229,7 @@
       <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="DO+38wYMtSRJpINfZXSE/vz6jQF+OqgRFAlN0XMG4JBKvprEIbm26KJhApu+LxgL0YLqg1zWcKYCrgCYiKfN3w==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="30936785" />
 
       <div class="select-menu js-menu-container js-select-menu">
-        <a href="/stenara/GettingCleaningData/subscription"
+        <a href="/danielacargnin/GettingCleaningData/subscription"
           class="btn btn-sm btn-with-count select-menu-button js-menu-target" role="button" tabindex="0" aria-haspopup="true"
           data-ga-click="Repository, click Watch settings, action:blob#show">
           <span class="js-select-button">
@@ -237,7 +237,7 @@
             Watch
           </span>
         </a>
-        <a class="social-count js-social-count" href="/stenara/GettingCleaningData/watchers">
+        <a class="social-count js-social-count" href="/danielacargnin/GettingCleaningData/watchers">
           1
         </a>
 
@@ -301,27 +301,27 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/stenara/GettingCleaningData/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="MJ7nmO5XR1HuA/wYH+ZWZWVj0xw5IBk0enxeU2+lmaBsXIbbR8uUc7LTUcXwwwA42Q2lRD9pjdSeOS65u+HjqA==" /></div>
+    <form accept-charset="UTF-8" action="/danielacargnin/GettingCleaningData/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="MJ7nmO5XR1HuA/wYH+ZWZWVj0xw5IBk0enxeU2+lmaBsXIbbR8uUc7LTUcXwwwA42Q2lRD9pjdSeOS65u+HjqA==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar stenara/GettingCleaningData"
+        aria-label="Unstar this repository" title="Unstar danielacargnin/GettingCleaningData"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <span class="octicon octicon-star"></span>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/stenara/GettingCleaningData/stargazers">
+        <a class="social-count js-social-count" href="/danielacargnin/GettingCleaningData/stargazers">
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/stenara/GettingCleaningData/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/37RNrvrU9OCugDhsEiiaWzJfek/yUl+vWXftM1P8jdOlAfbJOGn6SI6DjsFFtLoi3zCIvaHyL9B9AmwMRZ4KQ==" /></div>
+    <form accept-charset="UTF-8" action="/danielacargnin/GettingCleaningData/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/37RNrvrU9OCugDhsEiiaWzJfek/yUl+vWXftM1P8jdOlAfbJOGn6SI6DjsFFtLoi3zCIvaHyL9B9AmwMRZ4KQ==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star stenara/GettingCleaningData"
+        aria-label="Star this repository" title="Star danielacargnin/GettingCleaningData"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <span class="octicon octicon-star"></span>
         Star
       </button>
-        <a class="social-count js-social-count" href="/stenara/GettingCleaningData/stargazers">
+        <a class="social-count js-social-count" href="/danielacargnin/GettingCleaningData/stargazers">
           0
         </a>
 </form>  </div>
@@ -329,26 +329,26 @@
   </li>
 
         <li>
-          <form accept-charset="UTF-8" action="/stenara/GettingCleaningData/fork" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bZYqLj8on/uHd39qfTQyrmJkvIyiBtSFk9pMglwpVpCk2O/zrBOGW5/7D5wkjpEZmMOrLk6pbTkdyOqjTVrNBg==" /></div>
+          <form accept-charset="UTF-8" action="/danielacargnin/GettingCleaningData/fork" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bZYqLj8on/uHd39qfTQyrmJkvIyiBtSFk9pMglwpVpCk2O/zrBOGW5/7D5wkjpEZmMOrLk6pbTkdyOqjTVrNBg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
                 data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of stenara/GettingCleaningData to your account"
-                aria-label="Fork your own copy of stenara/GettingCleaningData to your account">
+                title="Fork your own copy of danielacargnin/GettingCleaningData to your account"
+                aria-label="Fork your own copy of danielacargnin/GettingCleaningData to your account">
               <span class="octicon octicon-repo-forked"></span>
               Fork
             </button>
-            <a href="/stenara/GettingCleaningData/network" class="social-count">0</a>
+            <a href="/danielacargnin/GettingCleaningData/network" class="social-count">0</a>
 </form>        </li>
 
 </ul>
 
         <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
           <span class="mega-octicon octicon-repo"></span>
-          <span class="author"><a href="/stenara" class="url fn" itemprop="url" rel="author"><span itemprop="title">stenara</span></a></span><!--
+          <span class="author"><a href="/danielacargnin" class="url fn" itemprop="url" rel="author"><span itemprop="title">danielacargnin</span></a></span><!--
        --><span class="path-divider">/</span><!--
-       --><strong><a href="/stenara/GettingCleaningData" data-pjax="#js-repo-pjax-container">GettingCleaningData</a></strong>
+       --><strong><a href="/danielacargnin/GettingCleaningData" data-pjax="#js-repo-pjax-container">GettingCleaningData</a></strong>
 
           <span class="page-context-loader">
             <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
@@ -365,30 +365,30 @@
 <nav class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
      role="navigation"
      data-pjax="#js-repo-pjax-container"
-     data-issue-count-url="/stenara/GettingCleaningData/issues/counts">
+     data-issue-count-url="/danielacargnin/GettingCleaningData/issues/counts">
   <ul class="sunken-menu-group">
     <li class="tooltipped tooltipped-w" aria-label="Code">
-      <a href="/stenara/GettingCleaningData" aria-label="Code" class="selected js-selected-navigation-item sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /stenara/GettingCleaningData">
+      <a href="/danielacargnin/GettingCleaningData" aria-label="Code" class="selected js-selected-navigation-item sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /danielacargnin/GettingCleaningData">
         <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
 
       <li class="tooltipped tooltipped-w" aria-label="Issues">
-        <a href="/stenara/GettingCleaningData/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /stenara/GettingCleaningData/issues">
+        <a href="/danielacargnin/GettingCleaningData/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /danielacargnin/GettingCleaningData/issues">
           <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
           <span class="js-issue-replace-counter"></span>
           <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>      </li>
 
     <li class="tooltipped tooltipped-w" aria-label="Pull requests">
-      <a href="/stenara/GettingCleaningData/pulls" aria-label="Pull requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /stenara/GettingCleaningData/pulls">
+      <a href="/danielacargnin/GettingCleaningData/pulls" aria-label="Pull requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /danielacargnin/GettingCleaningData/pulls">
           <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull requests</span>
           <span class="js-pull-replace-counter"></span>
           <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
 
       <li class="tooltipped tooltipped-w" aria-label="Wiki">
-        <a href="/stenara/GettingCleaningData/wiki" aria-label="Wiki" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g w" data-selected-links="repo_wiki /stenara/GettingCleaningData/wiki">
+        <a href="/danielacargnin/GettingCleaningData/wiki" aria-label="Wiki" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g w" data-selected-links="repo_wiki /danielacargnin/GettingCleaningData/wiki">
           <span class="octicon octicon-book"></span> <span class="full-word">Wiki</span>
           <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>      </li>
@@ -397,13 +397,13 @@
   <ul class="sunken-menu-group">
 
     <li class="tooltipped tooltipped-w" aria-label="Pulse">
-      <a href="/stenara/GettingCleaningData/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /stenara/GettingCleaningData/pulse">
+      <a href="/danielacargnin/GettingCleaningData/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /danielacargnin/GettingCleaningData/pulse">
         <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
 
     <li class="tooltipped tooltipped-w" aria-label="Graphs">
-      <a href="/stenara/GettingCleaningData/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /stenara/GettingCleaningData/graphs">
+      <a href="/danielacargnin/GettingCleaningData/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /danielacargnin/GettingCleaningData/graphs">
         <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
@@ -419,7 +419,7 @@
   <h3><span class="text-emphasized">HTTPS</span> clone URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
-           value="https://github.com/stenara/GettingCleaningData.git" readonly="readonly">
+           value="https://github.com/danielacargnin/GettingCleaningData.git" readonly="readonly">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -432,7 +432,7 @@
   <h3><span class="text-emphasized">SSH</span> clone URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
-           value="git@github.com:stenara/GettingCleaningData.git" readonly="readonly">
+           value="git@github.com:danielacargnin/GettingCleaningData.git" readonly="readonly">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -445,7 +445,7 @@
   <h3><span class="text-emphasized">Subversion</span> checkout URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
-           value="https://github.com/stenara/GettingCleaningData" readonly="readonly">
+           value="https://github.com/danielacargnin/GettingCleaningData" readonly="readonly">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -462,16 +462,16 @@
 </div>
 
 
-  <a href="github-windows://openRepo/https://github.com/stenara/GettingCleaningData" class="btn btn-sm sidebar-button" title="Save stenara/GettingCleaningData to your computer and use it in GitHub Desktop." aria-label="Save stenara/GettingCleaningData to your computer and use it in GitHub Desktop.">
+  <a href="github-windows://openRepo/https://github.com/danielacargnin/GettingCleaningData" class="btn btn-sm sidebar-button" title="Save danielacargnin/GettingCleaningData to your computer and use it in GitHub Desktop." aria-label="Save danielacargnin/GettingCleaningData to your computer and use it in GitHub Desktop.">
     <span class="octicon octicon-device-desktop"></span>
     Clone in Desktop
   </a>
 
 
-                <a href="/stenara/GettingCleaningData/archive/master.zip"
+                <a href="/danielacargnin/GettingCleaningData/archive/master.zip"
                    class="btn btn-sm sidebar-button"
-                   aria-label="Download the contents of stenara/GettingCleaningData as a zip file"
-                   title="Download the contents of stenara/GettingCleaningData as a zip file"
+                   aria-label="Download the contents of danielacargnin/GettingCleaningData as a zip file"
+                   title="Download the contents of danielacargnin/GettingCleaningData as a zip file"
                    rel="nofollow">
                   <span class="octicon octicon-cloud-download"></span>
                   Download ZIP
@@ -483,7 +483,7 @@
 
           
 
-<a href="/stenara/GettingCleaningData/blob/ea43df7e8290921e5d7647e47194c1d5758b802f/CodeBook.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/danielacargnin/GettingCleaningData/blob/ea43df7e8290921e5d7647e47194c1d5758b802f/CodeBook.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:e105080fdc187e723f6a613ccd15d931 -->
 
@@ -529,7 +529,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/stenara/GettingCleaningData/blob/master/CodeBook.md"
+               href="/danielacargnin/GettingCleaningData/blob/master/CodeBook.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -557,7 +557,7 @@
 </div>
 
   <div class="btn-group right">
-    <a href="/stenara/GettingCleaningData/find/master"
+    <a href="/danielacargnin/GettingCleaningData/find/master"
           class="js-show-file-finder btn btn-sm empty-icon tooltipped tooltipped-s"
           data-pjax
           data-hotkey="t"
@@ -568,18 +568,18 @@
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/stenara/GettingCleaningData" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">GettingCleaningData</span></a></span></span><span class="separator">/</span><strong class="final-path">CodeBook.md</strong>
+    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/danielacargnin/GettingCleaningData" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">GettingCleaningData</span></a></span></span><span class="separator">/</span><strong class="final-path">CodeBook.md</strong>
   </div>
 </div>
 
 
   <div class="commit file-history-tease">
     <div class="file-history-tease-header">
-        <img alt="@stenara" class="avatar" height="24" src="https://avatars1.githubusercontent.com/u/9557883?v=3&amp;s=48" width="24" />
-        <span class="author"><a href="/stenara" rel="author">stenara</a></span>
+        <img alt="@danielacargnin" class="avatar" height="24" src="https://avatars1.githubusercontent.com/u/9557883?v=3&amp;s=48" width="24" />
+        <span class="author"><a href="/danielacargnin" rel="author">danielacargnin</a></span>
         <time datetime="2015-02-17T21:29:16Z" is="relative-time">Feb 17, 2015</time>
         <div class="commit-title">
-            <a href="/stenara/GettingCleaningData/commit/ea43df7e8290921e5d7647e47194c1d5758b802f" class="message" data-pjax="true" title="CodeBook
+            <a href="/danielacargnin/GettingCleaningData/commit/ea43df7e8290921e5d7647e47194c1d5758b802f" class="message" data-pjax="true" title="CodeBook
 
 Code Book for the Course Project">CodeBook</a>
         </div>
@@ -598,8 +598,8 @@ Code Book for the Course Project">CodeBook</a>
       <h2 class="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list">
           <li class="facebox-user-list-item">
-            <img alt="@stenara" height="24" src="https://avatars1.githubusercontent.com/u/9557883?v=3&amp;s=48" width="24" />
-            <a href="/stenara">stenara</a>
+            <img alt="@danielacargnin" height="24" src="https://avatars1.githubusercontent.com/u/9557883?v=3&amp;s=48" width="24" />
+            <a href="/danielacargnin">danielacargnin</a>
           </li>
       </ul>
     </div>
@@ -610,24 +610,24 @@ Code Book for the Course Project">CodeBook</a>
     <div class="file-actions">
 
       <div class="btn-group">
-        <a href="/stenara/GettingCleaningData/raw/master/CodeBook.md" class="btn btn-sm " id="raw-url">Raw</a>
-          <a href="/stenara/GettingCleaningData/blame/master/CodeBook.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
-        <a href="/stenara/GettingCleaningData/commits/master/CodeBook.md" class="btn btn-sm " rel="nofollow">History</a>
+        <a href="/danielacargnin/GettingCleaningData/raw/master/CodeBook.md" class="btn btn-sm " id="raw-url">Raw</a>
+          <a href="/danielacargnin/GettingCleaningData/blame/master/CodeBook.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
+        <a href="/danielacargnin/GettingCleaningData/commits/master/CodeBook.md" class="btn btn-sm " rel="nofollow">History</a>
       </div>
 
         <a class="octicon-btn tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/stenara/GettingCleaningData?branch=master&amp;filepath=CodeBook.md"
+           href="github-windows://openRepo/https://github.com/danielacargnin/GettingCleaningData?branch=master&amp;filepath=CodeBook.md"
            aria-label="Open this file in GitHub for Windows"
            data-ga-click="Repository, open with desktop, type:windows">
             <span class="octicon octicon-device-desktop"></span>
         </a>
 
-            <form accept-charset="UTF-8" action="/stenara/GettingCleaningData/edit/master/CodeBook.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/aNr0i6Kj01IMBU3r6qCarYAHm9PoVJc1ME8U/X55KsuvlEDSD1v17Bpr4WsS8WgHTUdtFsBvx2O/V/Wswd8XQ==" /></div>
+            <form accept-charset="UTF-8" action="/danielacargnin/GettingCleaningData/edit/master/CodeBook.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/aNr0i6Kj01IMBU3r6qCarYAHm9PoVJc1ME8U/X55KsuvlEDSD1v17Bpr4WsS8WgHTUdtFsBvx2O/V/Wswd8XQ==" /></div>
               <button class="octicon-btn tooltipped tooltipped-n" type="submit" aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
                 <span class="octicon octicon-pencil"></span>
               </button>
 </form>
-          <form accept-charset="UTF-8" action="/stenara/GettingCleaningData/delete/master/CodeBook.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fLPSaarIhzYZrrCTYI9Jja3oleoOI94LwHVVn/m6TF0+zJ1e2ZPJLM3eaZ6CMdNwZgpO3f7ideMZ9MJSb0I0XA==" /></div>
+          <form accept-charset="UTF-8" action="/danielacargnin/GettingCleaningData/delete/master/CodeBook.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fLPSaarIhzYZrrCTYI9Jja3oleoOI94LwHVVn/m6TF0+zJ1e2ZPJLM3eaZ6CMdNwZgpO3f7ideMZ9MJSb0I0XA==" /></div>
             <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-n" type="submit" aria-label="Fork this project and delete this file" data-disable-with>
               <span class="octicon octicon-trashcan"></span>
             </button>
@@ -656,9 +656,9 @@ Code Book for the Course Project">CodeBook</a>
   <tr>
   <td><div>Code Book</div></td>
 
-  <td><div>Bassani, Stéphanie</div></td>
+  <td><div>Cargnin, Daniela</div></td>
 
-  <td><div>Tuesday, February 17, 2015</div></td>
+  <td><div>Sunday, June 21, 2015</div></td>
 
   <td><div>html_document</div></td>
   </tr>
